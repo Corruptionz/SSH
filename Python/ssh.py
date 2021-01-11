@@ -1,3 +1,5 @@
+# Paramiko API documentation found at: http://docs.paramiko.org/en/stable/index.html
+
 import paramiko, sys, select, time, re, os
 from getpass import getpass
 
